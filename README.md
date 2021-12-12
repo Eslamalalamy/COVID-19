@@ -2,7 +2,7 @@
 
 ## Data Science and Data Analysis using Python.
 
-I am using python (language), Jupyter (notebook), matplotlib and seaborn (data visualization), pandas  (data processing).
+I am using Python (language), Jupyter (notebook), Matplotlib and Seaborn (data visualization), Pandas (data processing).
 
 ### Projects
 - [COVID-19](https://github.com/eslamalalamy/Python-Data-Analysis-Projects/blob/main/COVID-19.ipynb)
